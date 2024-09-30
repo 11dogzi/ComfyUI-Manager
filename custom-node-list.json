@@ -15326,6 +15326,17 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {
+            "author": "11dogzi",
+            "title": "xinxiangmumingcheng",
+            "id": "xinxiangmumingcheng",
+            "reference": "https://github.com/11dogzi/xinxiangmumingcheng",
+            "files": [
+                "https://github.com/11dogzi/xinxiangmumingcheng"
+            ],
+            "install_type": "git-clone",
+            "description": "介绍插件功能"
         }
     ]
 }
